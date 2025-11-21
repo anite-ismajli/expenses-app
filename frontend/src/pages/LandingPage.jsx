@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import {LogIn} from "lucide-react";
+import WebImage from "@/components/shared/landing/WebImage";
 
 const LandingPage = () => {
   return (
@@ -18,7 +19,7 @@ const LandingPage = () => {
                         </Link>
                     </div>
             </div>
-
+            <WebImage />
         </div>
     </main>
   )

@@ -7,7 +7,7 @@ const LandingPage = () => {
     <main className='pt-24 bg-accent-foreground'>
         <div className='px-12 mx-auto max-w-5xl'>
             <div className='w-full mx-auto md:w-10/12 xl:w-9/12 md:text-center'>
-                <h1 className="mb-7 text-4xl font-extrabold leading-none tracking-normal text-slate-600 md:text-5xl md:tracking-tight">
+                <h1 className="mb-7 text-4xl font-extrabold leading-none tracking-normal text-slate-400 md:text-5xl md:tracking-tight">
                   Manage your Expenses!
                   </h1>
                     <p className="block w-full py-2 bg-clip-text leading-12 text-2xl font-semibold  text-transparent bg-linear-to-r from bg-blue-800 to-red-300">
